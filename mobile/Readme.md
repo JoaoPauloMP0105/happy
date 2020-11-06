@@ -1,0 +1,1 @@
+## Configurção de como usar a aplição em desenvolvimento
